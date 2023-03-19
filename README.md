@@ -6,7 +6,7 @@
 
 - 🎓 I have a Bachelor of Computing (honours) specialization in Computer Science from Queen's University ( 22' )
 
-- 👨‍💻 All of my projects are available at [https://github.com/sugarocket](https://github.com/sugarocket)
+- 👨‍💻 All of my projects are available at [https://github.com/sugarocket](https://github.com/sugarocket) (Below)
 
 - 🌱 I'm on track for learning more about Machine Learning, Data Lake, and Cloud Architecture.
 
